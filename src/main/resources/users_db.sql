@@ -1,0 +1,10 @@
+CREATE TABLE IF NOT EXISTS users
+(
+    id        BIGINT AUTO_INCREMENT PRIMARY KEY,
+    name      VARCHAR(100) NOT NULL,
+    last_name VARCHAR(100) NOT NULL,
+    age       TINYINT      NOT NULL,
+    email     VARCHAR(100) NOT NULL
+);
+
+DROP TABLE IF EXISTS users;
