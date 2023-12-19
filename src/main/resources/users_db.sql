@@ -14,7 +14,7 @@ VALUES ('Иван', 'Иванович', 'Мужской', 34, 'iii@gmail.com');
 INSERT INTO users(name, last_name, gender, age, email)
 VALUES ('Георгий', 'Петрович', 'Мужской', 22, 'gp@gmail.com');
 INSERT INTO users(name, last_name, gender, age, email)
-VALUES ('Александ', 'Сергеевич', 'Мужской', 44, 'sssss@gmail.com');
+VALUES ('Александр', 'Сергеевич', 'Мужской', 44, 'sssss@gmail.com');
 INSERT INTO users(name, last_name, gender, age, email)
 VALUES ('Кирилл', 'Алексеевич', 'Мужской', 26, 'KPA@gmail.com');
 
